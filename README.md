@@ -20,3 +20,7 @@ The implementation can easily switch between these strategies without modifying 
 
 ## Getting Started
 To use the Rate Limiter, simply create an instance of the desired strategy and set the required rate limits. Refer to the documentation for detailed examples and usage instructions.
+
+**Class-Design**
+
+<img width="921" height="477" alt="image" src="https://github.com/user-attachments/assets/6375500c-961a-4f18-9426-1fabf7e8f248" />
